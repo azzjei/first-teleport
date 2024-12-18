@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align:center;
+font-family: cursive;
+font-size: small;
+color: rgb(240, 229, 166)
+;}
+
+h2 {
+    text-align: center;
+ color: rgb(103, 173, 105);
+}
+
+.tree {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.weath {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
